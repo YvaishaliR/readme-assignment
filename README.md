@@ -34,3 +34,7 @@ http://127.0.0.1:8000/country-capital/London
 ```
 
 The result should be `UK`
+
+Checklist:
+- [*] First Task
+- [] Second Task
